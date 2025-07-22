@@ -12,5 +12,9 @@ Unity로 제작한 플랫포머 게임 프로토타입 입니다.
 
 # 사용 스택
 Unity 6000.0.45f1
+
 C#
-Visual Studio 2022, Unity UI
+
+Visual Studio 2022
+
+Unity UI
